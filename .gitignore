@@ -1,0 +1,5 @@
+# Byte-compiled / optimized / DLL files
+*.pyc
+staticfiles
+local_settings.py
+db.sqlite3
